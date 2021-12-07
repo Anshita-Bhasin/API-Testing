@@ -2,18 +2,18 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-12-06T14:07:26Z" name="Rest API Test Suite" finished-at="2021-12-06T14:07:29Z" duration-ms="3189">
+  <suite started-at="2021-12-07T07:42:29Z" name="Rest API Test Suite" finished-at="2021-12-07T07:42:32Z" duration-ms="3685">
     <groups>
     </groups>
-    <test started-at="2021-12-06T14:07:26Z" name="Rest API regression Test" finished-at="2021-12-06T14:07:29Z" duration-ms="3189">
+    <test started-at="2021-12-07T07:42:29Z" name="Rest API regression Test" finished-at="2021-12-07T07:42:32Z" duration-ms="3685">
       <class name="com.qa.api.gorest.tests.ProductTest">
-        <test-method signature="productTest()[pri:0, instance:com.qa.api.gorest.tests.ProductTest@3abd581e]" started-at="2021-12-06T14:07:26Z" name="productTest" finished-at="2021-12-06T14:07:29Z" duration-ms="3131" status="PASS">
+        <test-method signature="productTest()[pri:0, instance:com.qa.api.gorest.tests.ProductTest@3abd581e]" started-at="2021-12-07T07:42:29Z" name="productTest" finished-at="2021-12-07T07:42:32Z" duration-ms="3543" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- productTest -->
       </class> <!-- com.qa.api.gorest.tests.ProductTest -->
       <class name="com.qa.api.gorest.tests.CustomerTest">
-        <test-method signature="customerTest()[pri:0, instance:com.qa.api.gorest.tests.CustomerTest@24855019]" started-at="2021-12-06T14:07:26Z" name="customerTest" finished-at="2021-12-06T14:07:29Z" duration-ms="3157" status="PASS">
+        <test-method signature="customerTest()[pri:0, instance:com.qa.api.gorest.tests.CustomerTest@24855019]" started-at="2021-12-07T07:42:29Z" name="customerTest" finished-at="2021-12-07T07:42:32Z" duration-ms="3621" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- customerTest -->
